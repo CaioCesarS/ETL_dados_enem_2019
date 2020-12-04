@@ -16,7 +16,7 @@ Antes de tudo certifique-se de que o servidor do seu Jupyter Notebook ou Jupyter
 
 Na pasta raiz do projeto, inicialmente possui 2 arquivos e são:
 * **requirements.txt**: Arquivo que possui as dependências e suas respectivas versões utilizadas no projeto.
-* **etl_enem_2019.ipynb**: Notebook que possui os códigos para realizar a extração de dados. Transformação e análise dos dados e ingestão dos mesmos no no banco de dados relacional PostgreSQL. 
+* **etl_enem_2019.ipynb**: Notebook que possui os códigos para realizar a extração de dados. Transformação e análise dos dados e ingestão dos mesmos no banco de dados relacional PostgreSQL. 
 
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
